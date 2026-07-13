@@ -13,7 +13,8 @@ aprendendo sobre: Java,Python,Lua e C++
 ***Pouca experiência e sempre tentando melhorar***
 
 ### Projetos
-- [Lib Online Load](https://github.com/devKing22/load) — consiste em hoespedar uma lib c++ online e carregar ela usando dlopen(): no jogo selecionado.
+- [Remote Acess Trojan(RAT) in python](https://github.com/xyz22x/RATInpy) — é um programa feito em python que te concede acesso ao computador de outra pessoa
+- [22 Bot's](https://github.com/xyz22x/VoiceCord-with-rpc) - é um Self Bot para farm de horas em call em servidores,com RPC(Rich Presence)
 - [SistemaWHOIS](https://github.com/devKing22/sistemaWHOIS) — um sistema usando uma API para conseguir informações de um site
 
 ### Obs
