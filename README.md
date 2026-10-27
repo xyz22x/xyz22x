@@ -1,23 +1,61 @@
-# Languages
+<div align="center">
 
-<!-- Badges de tecnologias -->
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+# Marco
+
+Aprendendo a programar e criando projetos próprios — pouca experiência ainda, evolução constante.
+
+[![Java](https://img.shields.io/badge/Java-b07219?style=flat-square)](https://github.com/xyz22x?tab=repositories&q=&type=&language=java)
+[![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square)](https://github.com/xyz22x?tab=repositories&q=&type=&language=python)
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square)](https://github.com/xyz22x?tab=repositories)
+[![C++](https://img.shields.io/badge/C%2B%2B-f34b7d?style=flat-square)](https://github.com/xyz22x?tab=repositories)
+
+</div>
+
+---
 
 ### Sobre
 
-aprendendo sobre: Java,Python,Lua e C++
+Estudo **Java, Python, Lua e C++** e transformo o que aprendo em projetos próprios em vez de ficar só na teoria. Não finjo experiência que não tenho: cada repo aqui é um problema que tentei resolver sozinho, do jeito que eu sabia na época — e é assim que eu melhoro.
 
-***Pouca experiência e sempre tentando melhorar***
+---
 
 ### Projetos
-- [Remote Acess Trojan(RAT) in python](https://github.com/xyz22x/RATInpy) — é um programa feito em python que te concede acesso ao computador de outra pessoa
-- [22 Bot's](https://github.com/xyz22x/VoiceCord-with-rpc) - é um Self Bot para farm de horas em call em servidores,com RPC(Rich Presence)
-- [SistemaWHOIS](https://github.com/devKing22/sistemaWHOIS) — um sistema usando uma API para conseguir informações de um site
 
-### Obs
-Para envio de emails com novas ideias: 
-[Envie sua ideia aqui](mailto:marcoszzx990@gmail.com?subject=Tenho%20Uma%20Ideia%20de%20projeto%21)
+#### [RATInpy](https://github.com/xyz22x/RATInpy)
 
+RAT educacional em **Python**, feito para ambientes locais e controlados: shell reverso com execução de comandos, usando o netcat como listener. Projeto de estudo sobre redes e Python — não para uso em dispositivos de terceiros.
+
+![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square) ![Status](https://img.shields.io/badge/educacional-8b5cf6?style=flat-square)
+
+---
+
+#### [VoiceCord — 22 Bot's](https://github.com/xyz22x/VoiceCord-with-rpc)
+
+Selfbot em **Python** baseado no [Voicecord](https://github.com/SealedSaucer/Voicecord), com Rich Presence customizado no Discord. Descontinuado — o próprio projeto já avisa que viola os ToS do Discord; ficou como experimento.
+
+![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square) ![Status](https://img.shields.io/badge/descontinuado-a1a1aa?style=flat-square)
+
+---
+
+#### [SistemaWHOIS](https://github.com/xyz22x/systemWHOIS)
+
+Sistema em **Java** que consulta informações WHOIS de domínios `.com` pela API [JSONWhoisAPI](https://jsonwhoisapi.com): status de registro, datas de criação e expiração, nameservers e contato — com parsing de JSON feito à mão e código comentado para estudo.
+
+![Java](https://img.shields.io/badge/Java-b07219?style=flat-square)
+
+---
+
+### Contato
+
+Tem uma ideia de projeto ou uma sugestão? Me chama por e-mail:
+
+[![Email](https://img.shields.io/badge/marcoszzx990@gmail.com-C7222B?style=flat-square&logo=gmail&logoColor=white)](mailto:marcoszzx990@gmail.com?subject=Ideia%20de%20projeto)
+
+---
+
+### Estatísticas
+
+<div align="center">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=xyz22x&show_icons=true&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=a1a1aa&icon_color=8b5cf6" alt="Estatísticas do GitHub de Marco" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyz22x&layout=compact&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=a1a1aa" alt="Linguagens mais usadas por Marco" />
+</div>
