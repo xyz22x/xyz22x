@@ -4,10 +4,11 @@
 
 Aprendendo a programar e criando projetos próprios — pouca experiência ainda, evolução constante.
 
-[![Java](https://img.shields.io/badge/Java-b07219?style=flat-square)](https://github.com/xyz22x?tab=repositories&q=&type=&language=java)
 [![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square)](https://github.com/xyz22x?tab=repositories&q=&type=&language=python)
-[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square)](https://github.com/xyz22x?tab=repositories)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square)](https://github.com/xyz22x?tab=repositories&q=&type=&language=c)
 [![C++](https://img.shields.io/badge/C%2B%2B-f34b7d?style=flat-square)](https://github.com/xyz22x?tab=repositories)
+[![Java](https://img.shields.io/badge/Java-b07219?style=flat-square)](https://github.com/xyz22x?tab=repositories&q=&type=&language=java)
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square)](https://github.com/xyz22x?tab=repositories)
 
 </div>
 
@@ -15,11 +16,27 @@ Aprendendo a programar e criando projetos próprios — pouca experiência ainda
 
 ### Sobre
 
-Estudo **Java, Python, Lua e C++** e transformo o que aprendo em projetos próprios em vez de ficar só na teoria. Não finjo experiência que não tenho: cada repo aqui é um problema que tentei resolver sozinho, do jeito que eu sabia na época — e é assim que eu melhoro.
+Estudo **Python, C, C++ e Java** e transformo o que aprendo em projetos próprios em vez de ficar só na teoria. Hoje o foco é **C++/Qt 6**: aplicativos de desktop com ferramentas de sistema embaixo. Não finjo experiência que não tenho: cada repo aqui é um problema que tentei resolver sozinho, do jeito que eu sabia na época — e é assim que eu melhoro.
 
 ---
 
 ### Projetos
+
+#### [SaveGuard](https://github.com/xyz22x/SaveGuard)
+
+Aplicativo de desktop em **C++20 e Qt 6** para recuperar espaço em disco: encontra arquivos duplicados por conteúdo (SHA-256 em duas etapas), lista os maiores arquivos e envia para a Lixeira do sistema com central de revisão e revalidação de cada arquivo antes de mover. Suíte de testes Qt Test com 16 casos cobrindo deduplicação, cancelamento, revalidação e falhas de Lixeira. Binário com Qt incluso na release v1.0.0.
+
+![C++](https://img.shields.io/badge/C%2B%2B-f34b7d?style=flat-square) ![Qt](https://img.shields.io/badge/Qt%206-41CD52?style=flat-square) ![Status](https://img.shields.io/badge/v1.0.0-8b5cf6?style=flat-square)
+
+---
+
+#### [Porquão Spoof](https://github.com/xyz22x/porquao-spoof)
+
+Spoofer de identidade de hardware para **Windows** com driver de kernel boot-start, runtime BYOVD, scanner de drivers vulneráveis e interface em Qt 6. Projeto de estudo sobre o funcionamento de drivers e do Windows Internals — para ambientes próprios e controlados.
+
+![C++](https://img.shields.io/badge/C%2B%2B-f34b7d?style=flat-square) ![Windows](https://img.shields.io/badge/Kernel-0078D6?style=flat-square)
+
+---
 
 #### [RATInpy](https://github.com/xyz22x/RATInpy)
 
