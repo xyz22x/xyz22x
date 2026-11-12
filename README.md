@@ -70,9 +70,4 @@ Tem uma ideia de projeto ou uma sugestão? Me chama por e-mail:
 
 ---
 
-### Estatísticas
 
-<div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=xyz22x&show_icons=true&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=a1a1aa&icon_color=8b5cf6" alt="Estatísticas do GitHub de Marco" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyz22x&layout=compact&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=a1a1aa" alt="Linguagens mais usadas por Marco" />
-</div>
